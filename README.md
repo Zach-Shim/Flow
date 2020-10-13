@@ -1,2 +1,2 @@
 # Flow
-An employee scheduling app
+Open-Sourced employee scheduling app
